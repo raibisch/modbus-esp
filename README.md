@@ -1,5 +1,6 @@
 # Modbus Library for Arduino
-### ModbusRTU, ModbusTCP and ModbusTCP Security
+### ModbusTCP
+Remark this repro uses only the modbus-tcp client part of the forked lib !!
 
 For detailes on the library usage visit [documentation](documentation) section.
 
